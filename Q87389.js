@@ -15,3 +15,7 @@ function solution(n) {
 
   return x;
 }
+const obj = {
+  a: 'a',
+  b: 'b',
+}
